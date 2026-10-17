@@ -8,7 +8,7 @@
 
 <a href="https://github.com/mrz1836/go-serper/releases"><img src="https://img.shields.io/github/release-pre/mrz1836/go-serper?include_prereleases&style=flat-square&logo=github&color=black" alt="Release"></a>
 <a href="https://go.dev/"><img src="https://img.shields.io/github/go-mod/go-version/mrz1836/go-serper?style=flat-square&logo=go&color=00ADD8" alt="Go Version"></a>
-<a href="https://github.com/mrz1836/go-serper/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mrz1836/go-serper?style=flat-square&color=blue" alt="License"></a>
+<a href="https://github.com/mrz1836/go-serper/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mrz1836/go-serper.svg?style=flat-square&color=blue" alt="License"></a>
 
 <br/>
 
