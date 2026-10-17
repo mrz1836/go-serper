@@ -1,0 +1,75 @@
+{
+  "searchParameters": {
+    "q": "example lighthouse",
+    "type": "search",
+    "engine": "google",
+    "gl": "us",
+    "hl": "en",
+    "location": "Example City",
+    "tbs": "qdr:w",
+    "num": 10,
+    "page": 2,
+    "autocorrect": false
+  },
+  "knowledgeGraph": {
+    "title": "Example Lighthouse",
+    "type": "Lighthouse",
+    "website": "https://www.example.org/",
+    "imageUrl": "https://images.example.net/lighthouse.png",
+    "description": "A synthetic description of an invented lighthouse.",
+    "descriptionSource": "Example Encyclopedia",
+    "descriptionLink": "https://www.example.org/wiki/lighthouse",
+    "attributes": {
+      "Height": "45 m",
+      "Opened": "1901",
+      "Height": "46 m"
+    }
+  },
+  "answerBox": {
+    "snippet": "An untyped member: ignored by the SDK."
+  },
+  "organic": [
+    {
+      "title": "Example Lighthouse - Official Site",
+      "link": "https://www.example.com/lighthouse",
+      "snippet": "Visit the invented lighthouse on the example coast.",
+      "date": "Aug 31, 2022",
+      "position": 1,
+      "sitelinks": [
+        {"title": "Tours", "link": "https://www.example.com/lighthouse/tours"},
+        {"title": "History", "link": "https://www.example.com/lighthouse/history"}
+      ],
+      "attributes": {"Hours": "9 to 5", "Admission": "Free"},
+      "rating": 4.5
+    },
+    {
+      "title": "Lighthouses of the Example Coast",
+      "link": "https://www.example.net/coast",
+      "snippet": "A synthetic guide.",
+      "date": "3 days ago",
+      "position": 2
+    },
+    {
+      "title": "A result with a position out of order",
+      "link": "https://www.example.org/odd",
+      "snippet": "Positions are kept as returned.",
+      "position": 7
+    }
+  ],
+  "topStories": [
+    {"title": "An untyped list: ignored by the SDK."}
+  ],
+  "peopleAlsoAsk": [
+    {
+      "question": "How tall is the example lighthouse?",
+      "snippet": "A synthetic answer.",
+      "title": "Example FAQ",
+      "link": "https://www.example.org/faq"
+    }
+  ],
+  "relatedSearches": [
+    {"query": "example lighthouse tours"},
+    {"query": "example lighthouse history"}
+  ],
+  "credits": 1
+}

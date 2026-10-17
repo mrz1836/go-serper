@@ -1,0 +1,36 @@
+{
+  "searchParameters": {
+    "q": "lighthouse at dusk",
+    "type": "images",
+    "engine": "google",
+    "num": 10,
+    "autocorrect": false
+  },
+  "images": [
+    {
+      "title": "Lighthouse at dusk",
+      "imageUrl": "https://images.example.net/dusk.jpg",
+      "imageWidth": 1920,
+      "imageHeight": 1080,
+      "thumbnailUrl": "https://thumbs.example.net/dusk.jpg",
+      "thumbnailWidth": 300,
+      "thumbnailHeight": 168,
+      "source": "Example Photo Stories",
+      "domain": "photos.example.com",
+      "link": "https://photos.example.com/stories/dusk",
+      "googleUrl": "https://www.example.com/imgres?id=dusk",
+      "position": 1
+    },
+    {
+      "title": "A second invented image",
+      "imageUrl": "https://images.example.net/second.png",
+      "imageWidth": 640,
+      "imageHeight": 480,
+      "source": "example.org",
+      "domain": "www.example.org",
+      "link": "https://www.example.org/gallery",
+      "position": 2
+    }
+  ],
+  "credits": 1
+}

@@ -1,0 +1,48 @@
+{
+  "searchParameters": {
+    "q": "example harbor images",
+    "type": "images",
+    "engine": "google",
+    "gl": "ca",
+    "hl": "en-CA",
+    "location": "Example Harbor",
+    "tbs": "isz:l",
+    "num": 100,
+    "page": 4,
+    "autocorrect": true,
+    "unknownParameter": [1]
+  },
+  "images": [
+    {
+      "title": "Example harbor at noon",
+      "imageUrl": "https://files.example.net/harbor/noon-full.jpg",
+      "imageWidth": 4032,
+      "imageHeight": 3024,
+      "thumbnailUrl": "https://thumbs.example.org/harbor/noon-small.jpg",
+      "thumbnailWidth": 259,
+      "thumbnailHeight": 194,
+      "source": "Example Harbor Gazette",
+      "domain": "gazette.example.com",
+      "link": "https://gazette.example.com/articles/noon",
+      "googleUrl": "https://www.example.com/imgres?imgurl=noon&docid=1",
+      "position": 1,
+      "unknownImageMember": {"nested": [true]}
+    },
+    {
+      "title": "Example harbor at night",
+      "imageUrl": "https://cdn.example.org/night.png",
+      "imageWidth": 800,
+      "imageHeight": 600,
+      "thumbnailUrl": "https://thumbs.example.net/night.png",
+      "thumbnailWidth": 160,
+      "thumbnailHeight": 120,
+      "source": "Example Night Photos",
+      "domain": "night.example.net",
+      "link": "https://night.example.net/gallery/7",
+      "googleUrl": "https://www.example.com/imgres?imgurl=night&docid=2",
+      "position": 2
+    }
+  ],
+  "relatedSearches": [{"query": "An untyped member for Images: ignored by the SDK."}],
+  "credits": 3
+}

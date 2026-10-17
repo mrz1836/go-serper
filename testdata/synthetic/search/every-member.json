@@ -1,0 +1,77 @@
+{
+  "searchParameters": {
+    "q": "every member example",
+    "type": "search",
+    "engine": "google",
+    "gl": "gb",
+    "hl": "fr",
+    "location": "Example Town, Example Region",
+    "tbs": "qdr:m",
+    "num": 20,
+    "page": 3,
+    "autocorrect": true,
+    "unknownParameter": {"nested": [1, 2, 3]}
+  },
+  "knowledgeGraph": {
+    "title": "Example Museum",
+    "type": "Museum",
+    "website": "https://museum.example.org/",
+    "imageUrl": "https://images.example.net/museum.webp",
+    "description": "An invented museum, described for the SDK's tests.",
+    "descriptionSource": "Example Reference",
+    "descriptionLink": "https://reference.example.org/museum",
+    "attributes": {
+      "Founded": "1888",
+      "Address": "1 Example Way",
+      "Founded": "1889",
+      "": "an empty name",
+      "Empty value": ""
+    },
+    "unknownPanelMember": "ignored"
+  },
+  "organic": [
+    {
+      "title": "Example Museum - Home",
+      "link": "https://museum.example.org/home",
+      "snippet": "Opening hours and exhibitions of the invented museum.",
+      "date": "Jan 2, 2023",
+      "position": 1,
+      "sitelinks": [
+        {"title": "Exhibitions", "link": "https://museum.example.org/exhibitions", "unknownSitelinkMember": 1},
+        {"title": "Visit", "link": "https://museum.example.org/visit"}
+      ],
+      "attributes": {"Rating": "4.8", "Reviews": "1,024"},
+      "unknownResultMember": [true, null]
+    },
+    {
+      "title": "Example Museum on Example Maps",
+      "link": "https://maps.example.com/museum",
+      "snippet": "Directions to the invented museum.",
+      "date": "2 weeks ago",
+      "position": 2,
+      "sitelinks": [],
+      "attributes": {}
+    }
+  ],
+  "peopleAlsoAsk": [
+    {
+      "question": "When did the example museum open?",
+      "snippet": "A synthetic answer about an opening.",
+      "title": "Example Museum History",
+      "link": "https://museum.example.org/history",
+      "unknownQuestionMember": {}
+    },
+    {
+      "question": "Is the example museum free?",
+      "snippet": "A synthetic answer about admission.",
+      "title": "Example Museum Tickets",
+      "link": "https://museum.example.org/tickets"
+    }
+  ],
+  "relatedSearches": [
+    {"query": "example museum hours", "unknownRelatedMember": "ignored"},
+    {"query": "example museum tickets"}
+  ],
+  "answerBox": {"snippet": "An untyped member: ignored by the SDK."},
+  "credits": 5
+}

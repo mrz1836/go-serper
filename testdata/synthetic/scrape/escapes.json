@@ -1,0 +1,1 @@
+{"text":"caf\u00e9 \"quoted\" \\ back\/slash\r\nLine \ud83d\ude00 two\t\u2028\u2029 NUL \u0000 lone \udc00","markdown":"# Caf\u00e9\n\n> \"quoted\" `code` \\*not emphasis\\* <b>&amp;</b>\n\n[link](https://www.example.com/a?b=c&d=e)","credits":2}
